@@ -1875,3 +1875,18 @@ LogInit: Object subsystem initialized
 [2017.10.08-20.13.18:224][911]LogSavePackage: Moving '../../../../../GameEngines/Udemy/Survival/Saved/Level16F06BB3847BA58AE7747CF9BEF44C61F.tmp' to '../../../../../GameEngines/Udemy/Survival/Content/Level1.umap'
 [2017.10.08-20.13.18:267][911]LogSavePackage:Display: Finished SavePackage ../../../../../GameEngines/Udemy/Survival/Content/Level1.umap
 [2017.10.08-20.13.18:329][911]LogFileHelpers: Saving map 'Level1' took 0.951
+[2017.10.08-20.15.34:343][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2" FILE="../../../../../GameEngines/Udemy/Survival/Content/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.08-20.15.34:380][130]LogSavePackage: Save=27.76ms
+[2017.10.08-20.15.34:380][130]LogSavePackage: Moving '../../../../../GameEngines/Udemy/Survival/Saved/Level2C16B838840C7198B8DDADE9D41ED3C15.tmp' to '../../../../../GameEngines/Udemy/Survival/Content/Level2.umap'
+[2017.10.08-20.15.34:384][130]LogSavePackage:Display: Finished SavePackage ../../../../../GameEngines/Udemy/Survival/Content/Level2.umap
+[2017.10.08-20.15.34:400][130]LogFileHelpers: Saving map 'Level2' took 0.174
+[2017.10.08-20.25.03:818][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3" FILE="../../../../../GameEngines/Udemy/Survival/Content/Level3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.08-20.25.03:854][461]LogSavePackage: Save=27.27ms
+[2017.10.08-20.25.03:855][461]LogSavePackage: Moving '../../../../../GameEngines/Udemy/Survival/Saved/Level3DC5765744FE20461AA4DAB8096C6EE2D.tmp' to '../../../../../GameEngines/Udemy/Survival/Content/Level3.umap'
+[2017.10.08-20.25.03:858][461]LogSavePackage:Display: Finished SavePackage ../../../../../GameEngines/Udemy/Survival/Content/Level3.umap
+[2017.10.08-20.25.03:886][461]LogFileHelpers: Saving map 'Level3' took 0.186
+[2017.10.08-20.25.06:951][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../GameEngines/Udemy/Survival/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.08-20.25.06:987][798]LogSavePackage: Save=26.45ms
+[2017.10.08-20.25.06:987][798]LogSavePackage: Moving '../../../../../GameEngines/Udemy/Survival/Saved/Level7782B670481E1917D18B749931F65B9C.tmp' to '../../../../../GameEngines/Udemy/Survival/Content/Level.umap'
+[2017.10.08-20.25.06:991][798]LogSavePackage:Display: Finished SavePackage ../../../../../GameEngines/Udemy/Survival/Content/Level.umap
+[2017.10.08-20.25.07:010][798]LogFileHelpers: Saving map 'Level' took 0.167
